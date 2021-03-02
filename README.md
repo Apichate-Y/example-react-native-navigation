@@ -1,6 +1,6 @@
-# example-react-native-navigation
+# How to Start
 
-- cd my-app
+- cd example-react-native-navigation
 - yarn install
 - yarn start
 - yarn android
