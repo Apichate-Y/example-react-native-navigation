@@ -1,4 +1,4 @@
-# How to Start
+# How to start app
 
 - cd example-react-native-navigation
 - yarn install
